@@ -1,0 +1,8 @@
+<resources>
+<!--   fzt :  here we put  name id and the value -->
+    <string name="app_name">MathQuiz</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">x</string>
+    <string name="btn_generer">Générer</string>
+</resources>
