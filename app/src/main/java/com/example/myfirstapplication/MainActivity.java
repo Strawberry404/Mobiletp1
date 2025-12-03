@@ -29,8 +29,8 @@ public class MainActivity extends AppCompatActivity {
         });
         Random random = new Random();
 
-        int num1= random.nextInt(2000);
-        int num2 = random.nextInt(2000);
+        num1= random.nextInt(2000);
+        num2 = random.nextInt(2000);
         // logic related to randoomness
         TextView number1 = findViewById(R.id.nombre1);
         TextView number2 = findViewById(R.id.nombre2);
